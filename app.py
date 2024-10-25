@@ -17,11 +17,7 @@ wiki=WikipediaQueryRun(api_wrapper=api_wrapper)
 search=DuckDuckGoSearchRun(name="Search")
 
 
-st.title("🔎 LangChain - Chat with search")
-"""
-In this example, we're using `StreamlitCallbackHandler` to display the thoughts and actions of an agent in an interactive Streamlit app.
-Try more LangChain 🤝 Streamlit Agent examples at [github.com/langchain-ai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent).
-"""
+st.title("🔎 Search Engine By Sagar Mohatkar")
 
 ## Sidebar for settings
 st.sidebar.title("Settings")

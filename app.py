@@ -17,7 +17,7 @@ wiki=WikipediaQueryRun(api_wrapper=api_wrapper)
 search=DuckDuckGoSearchRun(name="search")
 
 
-st.title("🔎 Search Engine By Sagar Mohatkar")
+st.title("🔎 Search Engine By Sagar Mohatkar ")
 
 ## Sidebar for settings
 st.sidebar.title("Settings")
